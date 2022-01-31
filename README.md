@@ -1,7 +1,8 @@
 Olá! Eu sou o Matheus Konrath
 
-- 🔭 Hoje trabalho com o back-end
 - 🌱 Cursando Engenharia da Computação
+- 💼 Trabalho atualmente na Compass.uol, como desenvolvedor Backend Java;
+- ❌ Tenho objetivo de me tornar um desenvolvedor Full-Stack.
 
 
  <div>
